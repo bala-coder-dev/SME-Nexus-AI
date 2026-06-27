@@ -391,49 +391,49 @@ SME-Nexus-AI
 ## 🏠 Dashboard
 
 <p align="center">
-<img src="./assets/dashboard.png" width="100%">
+<img src="./public/dashboard.png" width="100%">
 </p>
 
 ## 📂 Data Upload
 
 <p align="center">
-<img src="./assets/data-upload.png" width="100%">
+<img src="./public/data-upload.png" width="100%">
 </p>
 
 ## 📊 Analytics
 
 <p align="center">
-<img src="./assets/analytics.png" width="100%">
+<img src="./public/analytics.png" width="100%">
 </p>
 
 ## 🏛 Executive Board Room
 
 <p align="center">
-<img src="./assets/board-room.png" width="100%">
+<img src="./public/board-room.png" width="100%">
 </p>
 
 ## 🤖 Live AI Debate
 
 <p align="center">
-<img src="./assets/live-debate.png" width="100%">
+<img src="./public/live-debate.png" width="100%">
 </p>
 
 ## ✅ Executive Action Plan
 
 <p align="center">
-<img src="./assets/action-plan.png" width="100%">
+<img src="./public/action-plan.png" width="100%">
 </p>
 
 ## 📝 Meeting Minutes
 
 <p align="center">
-<img src="./assets/meeting-minutes.png" width="100%">
+<img src="./public/meeting-minutes.png" width="100%">
 </p>
 
 ## 📈 Daily Growth
 
 <p align="center">
-<img src="./assets/daily-growth.png" width="100%">
+<img src="./public/daily-growth.png" width="100%">
 </p>
 
 
