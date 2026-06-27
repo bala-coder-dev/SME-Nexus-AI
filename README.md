@@ -386,7 +386,62 @@ SME-Nexus-AI
 ├── package.json
 ├── README.md
 ```
+### Application Screenshots
 
+## 🏠 Dashboard
+
+<p align="center">
+<img src="./assets/dashboard.png" width="100%">
+</p>
+
+## 📂 Data Upload
+
+<p align="center">
+<img src="./assets/data-upload.png" width="100%">
+</p>
+
+## 📊 Analytics
+
+<p align="center">
+<img src="./assets/analytics.png" width="100%">
+</p>
+
+## 🏛 Executive Board Room
+
+<p align="center">
+<img src="./assets/board-room.png" width="100%">
+</p>
+
+## 🤖 Live AI Debate
+
+<p align="center">
+<img src="./assets/live-debate.png" width="100%">
+</p>
+
+## ✅ Executive Action Plan
+
+<p align="center">
+<img src="./assets/action-plan.png" width="100%">
+</p>
+
+## 📝 Meeting Minutes
+
+<p align="center">
+<img src="./assets/meeting-minutes.png" width="100%">
+</p>
+
+## 📈 Daily Growth
+
+<p align="center">
+<img src="./assets/daily-growth.png" width="100%">
+</p>
+
+
+## 🔮 What-if Simulator
+
+<p align="center">
+<img src="./assets/what-if-simulator.png" width="100%">
+</p>
 ---
 
 # 🚀 Installation
