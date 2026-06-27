@@ -1,0 +1,8 @@
+{
+  "name": "SME Nexus AI",
+  "description": "Autonomous Executive Board for Small & Medium Enterprises - Help businesses automate operations, analyze revenue, inventory, marketing, finance, and customer sentiment with autonomous AI agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
