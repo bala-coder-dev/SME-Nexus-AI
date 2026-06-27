@@ -5,12 +5,9 @@
 <h1 align="center">SME Nexus AI</h1>
 
 <p align="center">
-Autonomous Executive Board for Small Businesses
+Autonomous Multi-Agent Executive Board for Small & Medium Enterprises
 </p>
 
-#  SME Nexus AI
-
-### Autonomous Multi-Agent Executive Board for Small & Medium Enterprises
 ## 🚀 Overview
 
 **SME Nexus AI** is an autonomous multi-agent business intelligence platform designed for **Small and Medium Enterprises (SMEs)**.
