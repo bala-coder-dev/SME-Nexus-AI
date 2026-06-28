@@ -440,7 +440,7 @@ SME-Nexus-AI
 ## 🔮 What-if Simulator
 
 <p align="center">
-<img src="./assets/what-if-simulator.png" width="100%">
+<img src="./public/what-if-simulator.png" width="100%">
 </p>
 ---
 
